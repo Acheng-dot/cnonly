@@ -3,7 +3,7 @@
 
 下载脚本
 ```
-wget -N --no-check-certificate -q -O "https://github.com/cchhuuaann1/cnonly/blob/master/cnonly"
+wget -N --no-check-certificate -q -O "https://github.com/cchhuuaann1/cnonly/edit/master/cnonly.sh"
 ```
 
 给脚本权限
